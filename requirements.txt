@@ -1,1 +1,4 @@
-colorama==0.4.6
+pip~=24.0
+attrs~=23.2.0
+DateTime~=5.5
+PySimpleGUI~=5.0.5
